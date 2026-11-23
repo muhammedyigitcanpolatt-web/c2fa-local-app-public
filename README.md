@@ -1,5 +1,18 @@
 # C2FA Local
 
+A local workspace for reviewing file-integrity evidence and available C2PA metadata.
+
+| At a glance | |
+| --- | --- |
+| Interface | Local Next.js / React workspace |
+| Workflows | Validator readiness, file analysis and JSON evidence exports |
+| Status | Experimental public source preview |
+| Start here | [Local setup](docs/LOCAL_SETUP.md) · [Result interpretation](docs/RESULT_INTERPRETATION.md) · [Claim boundaries](docs/CLAIM_BOUNDARIES.md) |
+
+![Experimental C2FA Local interface](docs/images/workspace.jpg)
+
+*Actual local interface. Validator availability depends on the local core and runtime configuration.*
+
 `C2FA Local` is a local-first experimental source preview for reviewing C2FA evidence on your own machine.
 
 ## What It Is
